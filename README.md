@@ -1,5 +1,5 @@
-- 👋 Olá! Meu nome é Murilo, nasci em 2004 no Brasil
-- 👀 Estou interessado em Inteligência Artificial, Jogos, Música e Animação
-- 🌱 Estou me aprofudando no Python
-- 💞️ Penso em conseguir montar uma empresa própria no futuro para poder continuar a fazer produtos e pesquisas
-- 📫 Meus links: https://linktr.ee/Ghieh44
+- 👋 Olá! Meu nome é Murilo, nasci em 2004 no Brasil / ¡Holá! Mi nombre es Murilo, Nací en 2004 en Brasil
+- 👀 Estou interessado em Inteligência Artificial, Servidores e em Cibersegurança / Estoy interesado en Inteligencia Artificial, Servidores y Ciberseguridad
+- 🌱 Estou me aprofudando no Python / Estoy profundizando en Python
+- 💞️ Quero conseguir participar nas pesquisas sobre inteligência artificial / Quiero poder participar en la investigación sobre inteligencia artificial
+- 📫 Meus links / Mi enlaces: https://linktr.ee/Ghieh44
